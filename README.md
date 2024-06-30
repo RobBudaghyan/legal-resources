@@ -1,0 +1,5 @@
+This repository contains the legal documents necessary for a ChatGPT-based legal consultant in Russia. Each legal document is stored in JSON format in its respective directory.
+
+## Legal Documents
+- [Constitution](constitution.pdf)
+- [Civil Code](civil_code.pdf)
